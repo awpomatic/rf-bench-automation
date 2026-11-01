@@ -1,0 +1,3 @@
+# Copy to config.local.toml and edit for this machine
+backend = "simulator"        # "simulator" or "tinysa"
+serial_port = "/dev/cu.usbmodemXXXX"
